@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "780709004461",
+        "firebase_url": "https://smart-ev-f653f-default-rtdb.firebaseio.com",
+        "project_id": "smart-ev-f653f",
+        "storage_bucket": "smart-ev-f653f.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:780709004461:android:89f05100a8e5d35932b224",
+            "android_client_info": {
+                "package_name": "com.harsh.smart_rikshaw"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "780709004461-9v0rvgeqanbp4oeg0uv7uocd1uoco04j.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyDNDG_plRr48x2BYKKE_xTE8hFNObt7QJM"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                        "client_id": "780709004461-9v0rvgeqanbp4oeg0uv7uocd1uoco04j.apps.googleusercontent.com",
+                        "client_type": 3
+                    },
+                    {
+                        "client_id": "780709004461-mgipvgto5mkcoi08hufs0hjojrhk8c4p.apps.googleusercontent.com",
+                        "client_type": 2,
+                        "ios_info": {
+                            "bundle_id": "com.harsh.smartRikshaw"
+                        }
+                    }
+                ]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

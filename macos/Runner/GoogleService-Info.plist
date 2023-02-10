@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>780709004461-mgipvgto5mkcoi08hufs0hjojrhk8c4p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.780709004461-mgipvgto5mkcoi08hufs0hjojrhk8c4p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0takA5B907eRmnrC4K6i_qzPdXDIV478</string>
+	<key>GCM_SENDER_ID</key>
+	<string>780709004461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.harsh.smartRikshaw</string>
+	<key>PROJECT_ID</key>
+	<string>smart-ev-f653f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-ev-f653f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:780709004461:ios:1aa255e0b149288432b224</string>
+	<key>DATABASE_URL</key>
+	<string>https://smart-ev-f653f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
